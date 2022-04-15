@@ -1,0 +1,36 @@
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.exe
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.deps.json
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.runtimeconfig.json
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.runtimeconfig.dev.json
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.dll
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.pdb
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.AssemblyReference.cache
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.GeneratedMSBuildEditorConfig.editorconfig
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.AssemblyInfoInputs.cache
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.AssemblyInfo.cs
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.CoreCompileInputs.cache
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.CopyComplete
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.dll
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.pdb
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.genruntimeconfig.cache
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.Properties.Resources.resources
+E:\~Salman\programming\! JustFaQ !\faqTools\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.GenerateResource.cache
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.exe
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.deps.json
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.runtimeconfig.json
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.runtimeconfig.dev.json
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.dll
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\faqTools.pdb
+X:\faq\faqTools\faqTools\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.AssemblyReference.cache
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.Properties.Resources.resources
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.GenerateResource.cache
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.GeneratedMSBuildEditorConfig.editorconfig
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.AssemblyInfoInputs.cache
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.AssemblyInfo.cs
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.CoreCompileInputs.cache
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.csproj.CopyComplete
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.dll
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.pdb
+X:\faq\faqTools\faqTools\obj\Debug\netcoreapp3.1\faqTools.genruntimeconfig.cache
